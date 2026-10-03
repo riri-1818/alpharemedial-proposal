@@ -1,0 +1,24 @@
+ID,区分,名前,Name,時間(分),料金($),説明,Description
+seitai-first,整体,初回,First visit,60,120,問診込み。初めての方はこちらを選んでください。,Consultation included. Please choose this for your first session.
+seitai-45,整体,2回目以降,Follow-up sessions,45,100,,
+seitai-60,整体,2回目以降,Follow-up sessions,60,120,,
+seitai-75,整体,2回目以降,Follow-up sessions,75,150,,
+seitai-90,整体,2回目以降,Follow-up sessions,90,170,,
+seitai-kids-first,整体,18歳未満の初回,"Under 18, first visit",45,100,問診込み。,Consultation included.
+seitai-kids,整体,18歳未満の2回目以降,"Under 18, follow-up",30,70,,
+seitai-exercise,整体,セルフケアの確認,Home exercise check,30,50,整体のあとにお伝えした体操が正しくできているか、動きとあわせて確認します。,A follow-up to check you are doing your home exercises correctly and to assess how you are moving.
+facial-mini,フェイシャル,ミニフェイシャル,Mini facial,30,60,ダブルクレンジング、ディープクレンジング、マッサージ、保湿。短時間で整えたい方に。,"Double cleansing, deep cleansing, massage and moisturising. A quick refresh."
+facial-45,フェイシャル,オーガニックフェイシャル,Organic facial,45,90,問診込み。クレンジング、角質ケア、2種類のマスク。マスクの間に、顔・首・肩・腕・手・頭をマッサージします。,"Consultation included. Cleansing, exfoliation and two masks, with a massage of the face, neck, shoulders, arms, hands and head while the mask is on."
+facial-60,フェイシャル,オーガニックフェイシャル,Organic facial,60,110,問診込み。同じ内容で、マッサージの時間を長くとります。,Consultation included. The same treatment with more time for massage.
+facial-men,フェイシャル,メンズフェイシャル,Men's facial,50,100,問診込み。クレンジング、ディープクレンジング、クレイマスク、マッサージ。,"Consultation included. Cleansing, deep cleansing, clay mask and massage."
+facial-led,フェイシャル,LEDライトセラピー,LED light therapy,20,55,肌の明るさ、透明感がほしい方に。照射中に腕・手・頭をマッサージします。日焼け止めは落としてお越しください。,"For brighter skin. Arm, hand and head massage while the light is on. Please remove sunscreen beforehand."
+set-fuji,セット,FUJI,FUJI,90,170,首・肩・背中のマッサージ30分と、オーガニックフェイシャル60分。,"30 min neck, back and shoulder massage, then a 60 min organic facial."
+set-umi,セット,UMI,UMI,90,175,首・肩・背中のマッサージ30分、オーガニックフェイシャル45分、ヘッドマッサージ15分。,"30 min neck, back and shoulder massage, a 45 min organic facial and a 15 min head massage."
+set-hana,セット,HANA,HANA,90,170,リラクゼーションマッサージ60分（弱め〜中くらいの圧）と、ミニフェイシャル30分。,60 min relaxation massage (light to medium pressure) and a 30 min mini facial.
+special-45,alpha Special,施術30分＋ヘッド15分,30 min treatment + 15 min head massage,45,90,,
+special-60,alpha Special,施術30分＋ヘッド30分,30 min treatment + 30 min head massage,60,110,または、施術45分＋ヘッド15分。,Or 45 min treatment + 15 min head massage.
+special-75,alpha Special,施術45分＋ヘッド30分,45 min treatment + 30 min head massage,75,140,または、リラクゼーションマッサージ60分＋ヘッド15分。,Or 60 min relaxation massage + 15 min head massage.
+special-90,alpha Special,リラクゼーションマッサージ60分＋ヘッド30分,60 min relaxation massage + 30 min head massage,90,160,,
+preg-massage,マタニティ,マタニティマッサージ,Pregnancy massage,60,130,問診込み。水性のサンフラワーオイルを使用。香りはユーカリ、マンダリン、ラベンダー、グレープフルーツから1つ選べます。,"Consultation included. Water-based sunflower oil, with one scent of your choice: eucalyptus, mandarin, lavender or grapefruit."
+preg-seitai,マタニティ,マタニティ整体,Seitai during pregnancy,60,130,妊娠中期以降がおすすめです。妊娠中の整体は、各料金に $10 加算となります。,Recommended from the second trimester. Add $10 to any seitai session during pregnancy.
+add-head,追加,ヘッドマッサージ15分を追加,Add a 15-min head massage,15,30,どの施術にも追加できます（保険請求の対象外）。,Can be added to any treatment (not claimable).

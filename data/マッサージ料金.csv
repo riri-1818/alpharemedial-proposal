@@ -1,0 +1,5 @@
+ID,施術名,Treatment,補足,Note,30分,45分,60分,75分,90分,保険請求
+remedial,リメディアル／スポーツ,Remedial / sports,問診込み,Consultation included,70,100,120,150,170,できる
+deep,ディープティシュー,Deep tissue,中〜強めの圧,Medium to firm pressure,70,100,120,150,175,できない
+aroma,アロマ,Aroma,ごく弱めの圧。エッセンシャルオイル使用,"Very light pressure, with essential oils",70,100,120,150,170,
+relax,リラクゼーション（スウェディッシュ）,Relaxation / Swedish,弱め〜中くらいの圧,Light to medium pressure,60,90,110,140,160,できない
